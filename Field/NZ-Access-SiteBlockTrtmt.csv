@@ -1,0 +1,61 @@
+Site,Block,Plot,Trtmt,SiteID,BlockID,PlotID,TrtmtID
+CapeFoulwind,A,1,Bare Ctrl,66,1,1,2
+CapeFoulwind,A,2,Ctrl,66,1,2,1
+CapeFoulwind,A,3,- Pred,66,1,3,4
+CapeFoulwind,A,4,+ Pred  dPrey,66,1,4,5
+CapeFoulwind,A,5,- Pred dPrey,66,1,5,6
+CapeFoulwind,A,6,+ Pred,66,1,6,3
+CapeFoulwind,B,1,+ Pred  dPrey,66,2,1,5
+CapeFoulwind,B,2,- Pred,66,2,2,4
+CapeFoulwind,B,3,Bare Ctrl,66,2,3,2
+CapeFoulwind,B,4,+ Pred,66,2,4,3
+CapeFoulwind,B,5,Ctrl,66,2,5,1
+CapeFoulwind,B,6,- Pred dPrey,66,2,6,6
+CapeFoulwind,C,1,Bare Ctrl,66,3,1,2
+CapeFoulwind,C,2,+ Pred  dPrey,66,3,2,5
+CapeFoulwind,C,3,- Pred,66,3,3,4
+CapeFoulwind,C,4,- Pred dPrey,66,3,4,6
+CapeFoulwind,C,5,Ctrl,66,3,5,1
+CapeFoulwind,C,6,+ Pred,66,3,6,3
+CapeFoulwind,D,1,+ Pred,66,4,1,3
+CapeFoulwind,D,2,Bare Ctrl,66,4,2,2
+CapeFoulwind,D,3,Ctrl,66,4,3,1
+CapeFoulwind,D,4,- Pred,66,4,4,4
+CapeFoulwind,D,5,+ Pred  dPrey,66,4,5,5
+CapeFoulwind,D,6,- Pred dPrey,66,4,6,6
+CapeFoulwind,E,1,+ Pred  dPrey,66,5,1,5
+CapeFoulwind,E,2,- Pred,66,5,2,4
+CapeFoulwind,E,3,Ctrl,66,5,3,1
+CapeFoulwind,E,4,- Pred dPrey,66,5,4,6
+CapeFoulwind,E,5,Bare Ctrl,66,5,5,2
+CapeFoulwind,E,6,+ Pred,66,5,6,3
+CapeFoulwind,F,1,Bare Ctrl,66,6,1,2
+CapeFoulwind,F,2,+ Pred  dPrey,66,6,2,5
+CapeFoulwind,F,3,- Pred,66,6,3,4
+CapeFoulwind,F,4,+ Pred,66,6,4,3
+CapeFoulwind,F,5,Ctrl,66,6,5,1
+CapeFoulwind,F,6,- Pred dPrey,66,6,6,6
+TaurangaHead,A,1,- Pred,62,1,1,4
+TaurangaHead,A,2,Bare Ctrl,62,1,2,2
+TaurangaHead,A,3,Ctrl,62,1,3,1
+TaurangaHead,A,4,+ Pred,62,1,4,3
+TaurangaHead,B,1,Bare Ctrl,62,2,1,2
+TaurangaHead,B,2,Ctrl,62,2,2,1
+TaurangaHead,B,3,- Pred,62,2,3,4
+TaurangaHead,B,4,+ Pred,62,2,4,3
+TaurangaHead,C,1,Bare Ctrl,62,3,1,2
+TaurangaHead,C,2,+ Pred,62,3,2,3
+TaurangaHead,C,3,Ctrl,62,3,3,1
+TaurangaHead,C,4,- Pred,62,3,4,4
+TaurangaHead,D,1,Bare Ctrl,62,4,1,2
+TaurangaHead,D,2,+ Pred,62,4,2,3
+TaurangaHead,D,3,- Pred,62,4,3,4
+TaurangaHead,D,4,Ctrl,62,4,4,1
+TaurangaHead,E,1,+ Pred,62,5,1,3
+TaurangaHead,E,2,Bare Ctrl,62,5,2,2
+TaurangaHead,E,3,Ctrl,62,5,3,1
+TaurangaHead,E,4,- Pred,62,5,4,4
+TaurangaHead,F,1,+ Pred,62,6,1,3
+TaurangaHead,F,2,Ctrl,62,6,2,1
+TaurangaHead,F,3,- Pred,62,6,3,4
+TaurangaHead,F,4,Bare Ctrl,62,6,4,2

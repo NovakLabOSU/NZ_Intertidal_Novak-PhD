@@ -1,0 +1,7 @@
+"TrtmtID","Trtmt","TrtmtDescription"
+1,"Ctrl","Uncaged, unmanipulated control plot with only corners marked."
+2,"BareCtrl","Uncaged, manipulated (100% scraped down to bare rock) control plot with corners marked.  To follow recruitment patterns."
+3,"pPred","Caged, unmanipulated plot with predators (H. scobina whelks) added at surrounding density. (CF: 3/cage; TH: 2/cage).(CF: Xenostrobus density (#, not % cover) adjusted to equal '-' Pred trmnt and double of 1/2 Prey trtmts)."
+4,"mPred","Caged, unmanip. plot without predators. (CF: Xenostrobus density (#, not % cover) adjusted to equal '+' Pred trmnt and double of 1/2 Prey trtmts)"
+5,"pPred dPrey","Caged, manip. plots with predators added at surrounding density and Xenostrobus pulex density (#, not % cover) reduced to 1/2 of unmanipulated trtmts."
+6,"mPred dPrey","Caged, manip. plots without predators and Xenostrobus pulex density (#, not % cover) reduced to 1/2 of unmanipulated trtmts."

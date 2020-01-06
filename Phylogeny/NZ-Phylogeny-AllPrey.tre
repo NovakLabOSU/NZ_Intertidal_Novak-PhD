@@ -1,0 +1,120 @@
+#NEXUS
+
+[File saved Sun Apr 27 10:38:56 2008]
+
+BEGIN TAXA;
+	DIMENSIONS NTAX = 52;
+	TAXLABELS
+		UNID_Notoacmea
+		Notoacmea_Black
+		Notoacmea_Radialspokes
+		Notoacmea_Net
+		Notoacmea_2spokes
+		Notoacmea_daedala
+		Patelloida_corticata
+		Atalacmea_fragilis
+		Cellana_radians
+		Cellana_ornata
+		Cellana_denticulata
+		Trimusculus_conicus
+		Montfortula_chathamensis
+		Siphonaria_australis
+		Buccinulum_sp
+		Dicathais_orbita
+		Paratrophon_patens
+		Haustrum_haustorium
+		Haustrum_scobina
+		Haustrum_lacunosus
+		Turbo_smaragdus
+		Diloma_aethiops
+		Diloma_zelandica
+		Diloma_nigerrima
+		Diloma_bicanaliculata
+		Diloma_arida
+		Thoristella_chathamensis
+		Margarella_sp
+		Fossarina_rimata
+		Cantharidella_tesselata
+		Zeacumantus_subcarinatus
+		Eatoniella_sp
+		Risellopsis_varia
+		Austrolittorina_cincta
+		Austrolittorina_antipodum
+		Aulacomya_atra_maoriana
+		Xenostrobus_pulex
+		Mytilus_galloprovincialis
+		Perna_canaliculus
+		Lasaea_rubra_hinemoa
+		Acanthochitona_zelandica
+		Sypharochiton_pelliserpentis
+		Chiton_glaucus
+		Onithochiton_neglectus_neglectus
+		Plaxiphora_obtecta
+		Plaxiphora_caelata
+		Calantica_spinosa
+		Calantica_villosa
+		Chamaesipho_brunnea
+		Chamaesipho_columna
+		Epopella_plicata
+		Balanus_sp
+		;
+ENDBLOCK;
+
+
+BEGIN TREES;
+	TRANSLATE
+		1	UNID_Notoacmea,
+		2	Notoacmea_Black,
+		3	Notoacmea_Radialspokes,
+		4	Notoacmea_Net,
+		5	Notoacmea_2spokes,
+		6	Notoacmea_daedala,
+		7	Patelloida_corticata,
+		8	Atalacmea_fragilis,
+		9	Cellana_radians,
+		10	Cellana_ornata,
+		11	Cellana_denticulata,
+		12	Trimusculus_conicus,
+		13	Montfortula_chathamensis,
+		14	Siphonaria_australis,
+		15	Buccinulum_sp,
+		16	Dicathais_orbita,
+		17	Paratrophon_patens,
+		18	Haustrum_haustorium,
+		19	Haustrum_scobina,
+		20	Haustrum_lacunosus,
+		21	Turbo_smaragdus,
+		22	Diloma_aethiops,
+		23	Diloma_zelandica,
+		24	Diloma_nigerrima,
+		25	Diloma_bicanaliculata,
+		26	Diloma_arida,
+		27	Thoristella_chathamensis,
+		28	Margarella_sp,
+		29	Fossarina_rimata,
+		30	Cantharidella_tesselata,
+		31	Zeacumantus_subcarinatus,
+		32	Eatoniella_sp,
+		33	Risellopsis_varia,
+		34	Austrolittorina_cincta,
+		35	Austrolittorina_antipodum,
+		36	Aulacomya_atra_maoriana,
+		37	Xenostrobus_pulex,
+		38	Mytilus_galloprovincialis,
+		39	Perna_canaliculus,
+		40	Lasaea_rubra_hinemoa,
+		41	Acanthochitona_zelandica,
+		42	Sypharochiton_pelliserpentis,
+		43	Chiton_glaucus,
+		44	Onithochiton_neglectus_neglectus,
+		45	Plaxiphora_obtecta,
+		46	Plaxiphora_caelata,
+		47	Calantica_spinosa,
+		48	Calantica_villosa,
+		49	Chamaesipho_brunnea,
+		50	Chamaesipho_columna,
+		51	Epopella_plicata,
+		52	Balanus_sp
+		;
+	UTREE * PHYLIP_1= ((((((7,(8,(1,2,3,4,5,6))),(10,(9,11))),(((12,14),(31,(((15,(16,(17,(18,19,20)))),(34,35)),(32,33)))),(13,(21,(27,28,29,30,(22,(23,(24,(25,26))))))))),(40,(36,(37,(38,39))))),(41,((42,43,44),(45,46)))),((47,48),((51,52),(49,50))));
+ENDBLOCK;

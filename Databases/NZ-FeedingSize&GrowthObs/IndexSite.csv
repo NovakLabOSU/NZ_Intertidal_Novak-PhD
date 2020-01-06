@@ -1,0 +1,89 @@
+"SiteID","Site","CoastID","RegionID","NZ N-coordinate","NZ E-coordinate","SiteDescription","FocusSite"
+4,"MemorialGardenRocks",2,1,"5866764","2566404","Rocks behind the war memorial on the southern end of downtown Kaikoura",FALSE
+5,"EPFSLabRocks",2,1,"5865540","2567382","Edward Percival Field Station",FALSE
+7,"SwimmingPoolRocks",2,1,,,"Linear series of rocks behind Kaikoura Swimming Pool",FALSE
+8,"AvocaPointNorth",2,1,"5865446","2568244","""Waiopuka Observation Point North"",""Fyffe House Point"" begin N end of cement wall-only shoreside 1/2 til terrain turns ""outcroppy"", then entire shore til  tilted bedding planes end, to Horm surveyed. Channel btwn 2 largest outcrops impassible.",FALSE
+9,"AvocaPointSouth",2,1,"5865446","2568244","""Waiopuka Observation Point South"", ""Fyffe House Point"" South of tilted bedding plane substrate of ""north"" site down to the walls of the ""South Wharf"".  Substrate rounded smooth, bubbly rock.  No bedding planes.",FALSE
+10,"WhakatuPoint",2,1,"5865651","2568129","Between ""New Wharf"" of Pacifica Inc. and Avoca Point (Fyffe House Point).  Tilted bedding planes.",FALSE
+11,"LighthouseReef",2,1,"5864581","2569000","a.k.a. Seal Reef; Smooth, bubbly graywacke. Lots of drift algae in water filled cracks and crevices. Area surveyed aprox 15x30m at base of cliff, south of large crevice starting next to parkinglot steps,",FALSE
+14,"WairepoLagoon",2,1,,,"Zostera/silted bay north of seal reef point",FALSE
+15,"OaroNorth",2,1,"5854380","2551731",,FALSE
+16,"OaroMid",2,1,"5853711","2551503",,FALSE
+17,"OaroSouth",2,1,"5853593","2551499",,FALSE
+18,"OtumatuRock",2,1,"5858017","2553518","Exposed point - Durvillea, coralline crust and Porphyra on barnacles only. Lepsiella present, C. ornata, radians.",FALSE
+19,"FirstBay",2,1,"5864336","2568788","Kaikoura Peninsula, south of Seal Reef.  Area 1 on southern side of First Bay between two main channels. Area 2 on outer side of point, on other side of the Horm and Coralline dominated flat platform.",FALSE
+20,"BlueDuck",2,1,"5880618","2573680","Very exposed - Durv and paint.  Mussels abundant, no whelks.  Mostly boulders rather than platform of smooth dark grey rock with shallow crack structure, and crevice pools. Boulder beach and outcrop (Anne's site) north, sand beach south.",FALSE
+21,"LimestoneBayPoint",2,1,"5864282","2566550","East side of Limestone bay on the western side of South Bay, Kaikoura Peninsula. Inland of Baxter's Reef.",FALSE
+22,"Raramai",2,1,"5860822","2555403","Exposed shore-Durvillea, coralline (paint and turf) mussel, barnacle dominated.Horm in crevices. Usual prey species.Menge's sites (Area1) next to tunnel.Area two next outcrop north Area 3 outcrop north of 2 w/ high pinnacle. Pinnac's northside inaccessibl",FALSE
+23,"WardBeach",2,2,"5928089","2608283","South of Cape Campbell; coordinates given for Area 2; Area 1 coordinates: E2608266 N5928127",FALSE
+24,"Opunake",4,7,"6193622","2583053","Old Wharf breakwater, Lepsiella in very good number (most seen to date)",FALSE
+25,"TungutuPoint",6,9,"6520092","2664820","Sheltered - Mahurangi West - Harbour",FALSE
+26,"TeWerahiNorth",5,8,"6751503","2481366","At north end of beach SW of Cape Reinga",FALSE
+27,"TapotupotuBayWest",5,8,"6751887","2484669","after first channel with overhanging outcrop on west end of beach",FALSE
+28,"TapotupotuBayEast",6,8,"6751826","2485006",,FALSE
+29,"TeWerahiBeach",4,8,"6748570","2480523","4/5ths of the way down the beach SW from Cape Reinga",FALSE
+30,"LeighShadowRocks",6,9,"6546108","2673073","semi-protected cove with 2 small caves and 2 islands blocking entrance",FALSE
+31,"LeighGoatIslandReserve",6,9,"6546417","2672801","""Site"" used for any anecdotal observations made while walking to and from specific sites",TRUE
+32,"LeighWaterfallandPenny'sRocks",6,9,"6546417","2672801","East and West of the waterfall",FALSE
+33,"LeighTabletopRocksandBoulders",6,9,"6546278","2672484","Bob's ""Boulder Area"" east of waterfall rocks, west of shadow rocks, next to steep climb",FALSE
+34,"LeighEchinodermReef",6,9,"6546353","2671698",,FALSE
+35,"RedBeachCliff",6,9,"6509819","2663221","Whangaparaoa - just north of Auckland - one of Bob's sites. Areas 1 and 2 are along cliff edge starting at little cove north of the beach of Red Beach proper going back to Red Beach",FALSE
+36,"RedBeach",6,9,"6509773","2663367","Bob's Site - 1st of two platforms reached by 5-15 meter long wade at low tide.  2nd platform separated by 2-3m wide channel.  Surveys done on 1st platform; area 3:west side of  channel and area 4: vertical ""steps"" on west side of platform.",FALSE
+37,"RangitotoIslandWhiteBeach",6,9,"6490161","2674072","Rock platforms on NW side of island, north of Baxter's Reef with the lighthouse",FALSE
+38,"RangitotoIslandWharf",6,9,,,,FALSE
+39,"PourereTuingaraPoint",6,10,"6111500","2839250","No GPS reading taken, numbers off map; location of surveyed area was in front of two largest ""peaks"" of land.  Area is extensive flat beds of Hormosira with interspersed boulders - basically like Wairepo times 100 in size",FALSE
+40,"CastlePointCave",6,10,"6029083","2782166","Platform past cave on sheltered side of Lighthouse rock",FALSE
+41,"CastlePointBoulders",6,10,"6028987","2782099","Behind lighthouse rock",FALSE
+42,"MatakitakiakupeCapePalliser",4,10,"5952472","2699526",,FALSE
+43,"PointHoward",4,5,,,"North end of Wellington Harbour",FALSE
+44,"KauPoint",4,5,"5989259","2663603","North point of Wellington Harbour entrance",FALSE
+45,"IslandBayLabRocks",4,5,"5982714","2657671","Rocks just in front of lab",FALSE
+46,"MoaPoint",4,5,"5983009","2661399","Wellington south shore",FALSE
+47,"QuarryBayEast",4,5,"5982755","2656332","Bay next to Owhiro Bay at end of road.",FALSE
+48,"QuarryBayWest",4,5,"5982711","2655657","Bay west of Owhiro Bay, site is at west end of first beach",FALSE
+49,"PukeruaBay",4,5,"6018152","2668575","NW of Wellington on western shore",FALSE
+50,"WairakaPoint",4,5,"6017849","2667259","West of Pukerua Bay",FALSE
+51,"ShellyBay",4,5,"5988098","2662151","Inside Wellington Bay",FALSE
+52,"HongoekaBay",4,5,"6013352","2665796","Near Plimmerton",FALSE
+53,"WhitireiaParkPoint",4,5,"6011392","2665284","across bay from Plimmerton, large expanse of tilted mudstone, probably also a good site for Haustrum",FALSE
+54,"SharksTooth",2,1,"5863657","2566843","Area where Quarter Sampling barnacle zone surveys are done",FALSE
+55,"SouthBayRocks",2,1,"5865192","2565796","West of town, Boulder field on platform bedrock with lots of 'island' outcrops, grey greywhacke mudstone interspersed with small boulder/ rubble",FALSE
+56,"Whaler'sBay",2,1,"5863739","2567264",,FALSE
+57,"GentleAnnie'sPoint",1,3,"5966390","2422090","1/2 way between Westport and Karamea",FALSE
+58,"TaurangaBayNorth",1,3,"5936796","2381603","Cape Foulwind, right around corner from seal colony",FALSE
+59,"TaurangaHeadWest",1,3,"5935555","2381244","Granite. Areas 1 & 2 on either side of small point on southern end of west side; Area 1:  huge boulders and side of point wall, Area 2: little cove between two walls with large boulders and ridge.",FALSE
+60,"TaurangaHeadSWcorner",1,3,"5935514","2381323","Around large turf/sediment filled pool along wall and in small boulder field",FALSE
+61,"TaurangaHeadSouthBoulders",1,3,"5935526","2381404","Boulders on northern end of Nine mile beach",FALSE
+62,"TaurangaHead",1,3,"5935850","2381578","Outcrops at southern end of Tauranga Bay beach",TRUE
+63,"CharlestonJoyceBay",1,3,"5921552","2380143",,FALSE
+64,"CharlestonConstantBay",1,3,"5921552","2380143","incorrect NZ-map grid entered",FALSE
+65,"CapeFoulwindNWPlatform",1,3,"5938940","2382452",,FALSE
+66,"CapeFoulwind",1,3,"5938210","2381793","Exposed, but somewhat sheltered by headland.  Two main vertical ""channels"".  High Stichaster abundance probably cause of low Mytilus density.  High Xenostrobus density.",TRUE
+67,"CapeFoulwindWest2",1,3,"5938426","2382036",,FALSE
+70,"DuffsKnobNorth",2,1,"5860341","2554859","East-north-east of Jacky Duffs Knob hill (mtn), just south of Raramai tunnel",FALSE
+71,"DuffsKnobSouth(KieKieRecreationReserve)",2,1,"5859738","2554286","East-south-east of Jacky Duffs Knob (hill/mtn)",FALSE
+72,"Intertunnel-South",2,1,"5861550","2556788","Half-way between Rarmai and Parititahi Tunnels",FALSE
+73,"Intertunnel-North",2,1,"5861690","2557071","Just north of Intertunnel-South - next outcrop so to speak",FALSE
+76,"Takapuna",6,9,"6485700","2671770","Presumed to be ""Takapuna Head""",FALSE
+77,"KaikouraPaine's",2,1,,,"""~10 miles south of lab. Shore in general very similar to Leigh - appears to be warmer climate; also more drift algae and much better development of benthic algae""",FALSE
+78,"WaikukuBay",6,8,"6747701","2511769","""Cobble-but large + very smooth from continual pounding. Some rough rocky outcrops with rougher edges. [pg162:""At North end of long cobble beach""]  NZ grid points from LINZ TopoOnline",FALSE
+79,"LeighHarbour",6,9,"6544270","2672931","Cove/Harbour next to the town of Leigh, NZ map grid retrieved from LINZ TopoOnline",FALSE
+80,"WhangareiBaptistCamp",6,8,,,"""Area described in Morton and Miller, substrate rocks and oysters.""  Probably Whangarei Head",FALSE
+81,"WaikukuaBay-2",6,8,,,"""Between Waikuku and N. Cape""",FALSE
+83,"CapeCampbellLighthouse",2,2,"5941900","2616400",,FALSE
+84,"ParititahiTunnelNorth",2,1,"5862649","2558275","very large rock outcrops with vertical (inaccessible) sides on either side of boulder field with small 10x4m bench of rock outcrop in the middle.",FALSE
+85,"ParititahiTunnelSouth",2,1,"5861928","2557743","Northern side of come south of tunnel.  Good rock outcrops but substrate may be too crevice ridden for good surveys",FALSE
+86,"ParititahiTunnelPinnacleRock",2,1,"5861983","2558000","Lots of vertical channels but difficult to access for surveys",FALSE
+87,"ParititahiTunnelSouth2",2,1,"5861983","2557501","South end of cove south of tunnel, barnacle field (north of rocky point)",FALSE
+88,"IntertunnelNorth2",2,1,"5861715","2557391",,FALSE
+89,"PaiaPointNorth",2,1,"5859379","2554134","North end of campground",FALSE
+90,"PaiaPoint",2,1,"5859204","2554140",,TRUE
+91,"Rakautara",2,1,"5882637","2576996","Just north of Nin's Bin. Southern side of Halfmoon Bay. Lots of deep channels, outcrop islands. Very few Lepsiella, Haustrum in OK #s.  Melag seem abundant. Durvillea lowshore, seaward side.  Mussels in cracks only.  Seals further north and south.",TRUE
+92,"JacksonHeadEast",7,11,"5683839","2158620","East side of Jackson Head, approx. midpoint",FALSE
+93,"JacksonHeadNorth",7,11,"5684331","2158780","Aprox. Midpoint of North facing side of Jackson Head",FALSE
+94,"JacksonHeadNW",7,11,"5685027","2158339","NW point of western exposed side of Jackson Head",FALSE
+95,"JacksonHead-MengeCages",7,11,"5684340","2157672","Northern end of general ""Jackson Head"" site where Menge group has their predator exclusion cages",FALSE
+96,"JacksonHead",7,11,"5684298","2157576","Sandstone and small conglomerate bedrock, lots of vertical walls and semi-sheltered large tide pool in middle",TRUE
+97,"OkahuPoint",7,11,"5684243","2157425","No longer on Jackson Head itself, ~270m SE of Menge's Jackson Bay Head site. Rough sandstone and small-sized conglomerate layers bedrock w/ large boulders in large bedrock-encircled tidepool.",TRUE
+98,"Smoothwater Bay South",1,3,"5683285","2156287","Boulders to south of beach",FALSE
+99,"RobynSeaTable",1,1,"1","1","Sea table at EPFS",FALSE

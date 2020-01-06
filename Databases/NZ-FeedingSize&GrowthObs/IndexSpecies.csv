@@ -1,0 +1,306 @@
+"SpeciesID","SpeciesName","EntryName","Pred","Prey","SurveySp","MainQuadOnlySpecies","PercentCoverSpecies","Synonym","AnalysisGroup","AnalysisGroup2","AnalysisGroup3","AnalysisGroup4","Author","Comment","HandlingTime","Phylum","Class","Subclass","Infraclass","Superorder","Order","Suborder","Infraorder","Superfamily","Family","Subfamily","Genus"
+1,"Coralline Articulated Turf",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+2,"Acanthochitona zelandica","Acanthochitona zelandica",FALSE,TRUE,TRUE,FALSE,FALSE,,"Chitons","Chiton","Chiton","IGPredPrey","Quoy & Gaimard,1835",,TRUE,"Mollusca","Polyplacophora","Neoloricata",,,"Acanthochitonina",,,,"Acanthochitonidae","Acanthochitoninae","Acanthochitona"
+4,"Adenocystis sp",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+5,"Amphipod spp",,FALSE,FALSE,FALSE,FALSE,FALSE,,"Crustacean","Crustacean","Crustacean",,,,FALSE,,,,,,,,,,,,
+11,"UNID Anemone","Anemones",FALSE,FALSE,TRUE,FALSE,TRUE,,"Other Cover","Anthozoan","Anthozoans",,,,FALSE,,,,,,,,,,,,
+15,"Anotrichium sp",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Algae","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+16,"Antithamnion sp",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+17,"Aphanocladia sp",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+18,"Apophlaea sp",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+19,"Aulacomya atra maoriana","Aulocomya",FALSE,TRUE,TRUE,FALSE,TRUE,,"Mussels","Bivalve - Mussel","Mussel","IGSharedPrey","Iredale,1915",,FALSE,"Mollusca","Bivalvia","Pteriomorpha",,,"Mytiloida",,,,"Mytilidae","Modiolinae","Aulacomya"
+20,"Balanus sp","Balanus sp",FALSE,FALSE,TRUE,FALSE,TRUE,,"Barnacles","Barnacle - Acorn","Barnacle","IGSharedPrey",,,FALSE,"Arthropoda","Maxillopoda","Thecostraca","Cirripedia","Thoracica","Sessilia",,,,"Balanidae",,"Balanus"
+22,"Ballia sp",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+23,"Bare Rock","Bare Rock",FALSE,FALSE,TRUE,FALSE,TRUE,,"Rock substrate","Substrate","Substrate",,,,FALSE,,,,,,,,,,,,
+24,"Benhamina obliquata","Benhamina",FALSE,FALSE,TRUE,FALSE,FALSE,,"Other Count","Limpet - Pulmonate","Other limpet",,,,FALSE,,,,,,,,,,,,
+26,"Bryocladia ericoides",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+27,"Bryopsis sp",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+28,"Bryozoan complex",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Bryozoan","Bryozoan",,,,FALSE,,,,,,,,,,,,
+29,"Buccinulum multilineum","B multilineum",FALSE,FALSE,FALSE,FALSE,FALSE,,"Other Count","Whelk","Whelk","IGPredPrey",,,FALSE,"Mollusca","Gastropoda","Prosobranchia",,,"Neogastropoda",,,,"Buccinulidae","Buccinulinae","Buccinulum"
+30,"Calantica villosa","Calantica villosa",FALSE,TRUE,TRUE,FALSE,TRUE,,"Barnacles","Barnacle - Gooseneck","Barnacle","IGSharedPrey","Leach",,FALSE,"Arthropoda","Maxillopoda","Thecostraca","Cirripedia","Thoracica","Pedunculata",,,,"Calanticidae",,"Calantica"
+31,"Callithamnion sp",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+32,"Callophyllis hombroniana",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+33,"Cantharidella tesselata","Cantharidella tesselata",FALSE,TRUE,TRUE,FALSE,FALSE,,"Other Count","Snail","Snail","IGPredPrey","Adams, 1851",,TRUE,"Mollusca","Gastropoda","Prosobranchia",,,"Vetigastropoda",,,"Trochoidea","Trochidae","Trochinae","Cantheridella"
+34,"Carpophylum maschalocarpum",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+36,"Caulerpa sp",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+37,"Cellana denticulata","denticulata",FALSE,TRUE,TRUE,FALSE,FALSE,,"Cellana limpets","Limpet","Cellanid limpet","IGPredPrey","Martyn,1784",,TRUE,"Mollusca","Gastropoda","Prosobranchia",,,"Docoglossa",,,,"Nacellidae",,"Cellana"
+38,"Cellana flava","flava",FALSE,TRUE,TRUE,FALSE,FALSE,,"Cellana limpets","Limpet","Cellanid limpet","IGPredPrey","Hutton, 1873",,FALSE,"Mollusca","Gastropoda","Prosobranchia",,,"Docoglossa",,,,"Nacellidae",,"Cellana"
+39,"Cellana ornata","ornata",FALSE,TRUE,TRUE,FALSE,FALSE,,"Cellana limpets","Limpet","Cellanid limpet","IGPredPrey","Dillwyn,1817",,TRUE,"Mollusca","Gastropoda","Prosobranchia",,,"Docoglossa",,,,"Nacellidae",,"Cellana"
+40,"Cellana radians","radians",FALSE,TRUE,TRUE,FALSE,FALSE,,"Cellana limpets","Limpet","Cellanid limpet","IGPredPrey","Gmelin,1791",,TRUE,"Mollusca","Gastropoda","Prosobranchia",,,"Docoglossa",,,,"Nacellidae",,"Cellana"
+41,"Cellana stellifera","stellifera",FALSE,TRUE,FALSE,FALSE,FALSE,,"Cellana limpets","Limpet","Cellanid limpet",,"Gmelin, 1791",,FALSE,"Mollusca","Gastropoda","Prosobranchia",,,"Docoglossa",,,,"Nacellidae",,"Cellana"
+42,"Cellana strigilis redimiculum","strigilis",FALSE,TRUE,FALSE,FALSE,FALSE,,"Cellana limpets","Limpet","Cellanid limpet",,"Reeve, 1854",,FALSE,"Mollusca","Gastropoda","Prosobranchia",,,"Docoglossa",,,,"Nacellidae",,"Cellana"
+43,"Centroceras sp",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+44,"Ceramium sp",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+46,"Chamaesipho spp","Chamaesipho spp",FALSE,TRUE,FALSE,FALSE,TRUE,,"Barnacles","Barnacle - Acorn","Barnacle","IGSharedPrey",,,FALSE,"Arthropoda","Maxillopoda","Thecostraca","Cirripedia","Thoracica","Sessilia",,,"Chthamaloidea","Chthamalidae",,"Chamaesipho"
+47,"Chaetomorpha sp",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+48,"Champia sp",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+49,"Chiton glaucus","Chiton glaucus",FALSE,TRUE,TRUE,FALSE,FALSE,"Amourochiton glaucus","Chitons","Chiton","Chiton","IGPredPrey","Gray","(Amaurochiton) Thiele in Troschel, 1893",FALSE,"Mollusca","Polyplacophora","Neoloricata",,,"Ischnochitonina",,,,"Chitonidae",,"Chiton"
+50,"Sypharochiton pelliserpentis","Sypharochiton",FALSE,TRUE,TRUE,FALSE,FALSE,"(= sinclairi Gray)","Chitons","Chiton","Chiton","IGPredPrey","Quoy & Gaimard, 1835",,TRUE,"Mollusca","Polyplacophora","Neoloricata",,,"Ischnochitonina",,,,"Chitonidae","Chitoninae","Sypharochiton"
+51,"Chondria sp",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+52,"Chordaria sp",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+54,"Cladophora sp",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+55,"Cladostephus sp",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+57,"Cladyhemia oblongifolia",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+59,"Codium adhaerens",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+60,"Codium fragile",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+62,"Colpomenia complex",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+63,"Cominella glandiformis","glandiformis",TRUE,FALSE,FALSE,FALSE,FALSE,,"Other Count","Whelk","Whelk",,,,FALSE,,,,,,,,,,,,
+64,"Cominella maculosa","maculosa",TRUE,FALSE,TRUE,FALSE,FALSE,,"Other Count","Whelk","Whelk",,,,FALSE,,,,,,,,,,,,
+66,"Cookia sulcata",,FALSE,FALSE,FALSE,FALSE,FALSE,,"Other Count","Snail","Snail",,,,FALSE,,,,,,,,,,,,
+67,"Coscinasterias calamaria","Coscinasterias calamaria",FALSE,FALSE,FALSE,FALSE,FALSE,,"Other Count","Echinoderm","Echinoderm",,,,FALSE,,,,,,,,,,,,
+68,"Crassostrea gigas","Crassostrea gigas",FALSE,TRUE,FALSE,FALSE,TRUE,"Pacific Oyster","Other Cover","Bivalve","Other bivalve",,"Thunberg, 1793",,FALSE,"Mollusca","Bivalvia","Pteriomorphia",,,"Ostreoida",,,"Ostreoidea","Ostreidae",,"Crassostrea"
+69,"Curdiea sp",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+70,"Cystophora retroflexa",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+71,"Cystophora scalaris",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+72,"Cystophora sp",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+73,"Cystophora torulosa",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+74,"Delicea sp",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+75,"Desmarestia sp",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+76,"Diatom film",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+77,"Dictyota sp",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+78,"Diloma nigerrima","Diloma nigerrima",FALSE,TRUE,TRUE,FALSE,FALSE,,"Other Count","Snail","Dilomid snail","IGPredPrey","Gmelin, 1791",,FALSE,"Mollusca","Gastropoda","Prosobranchia",,,"Vetigastropoda",,,"Trochoidea","Trochidae","Trochinae","Diloma"
+80,"Durvillaea antarctica",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+82,"Durvillaea willana",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+83,"Durvillaea sp",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+84,"Coralline Encrusting Paint","Coralline Encrusting_Paint",FALSE,FALSE,TRUE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+86,"Echinothamnion sp",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+87,"Ecklonia sp",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+88,"Ectocarpus sp",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+89,"Elminius modestus","Elminius modestus",FALSE,FALSE,TRUE,FALSE,TRUE,,"Barnacles","Barnacle - Acorn","Barnacle",,,,FALSE,,,,,,,,,,,,
+90,"Enteromorpha sp",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+91,"Epiactus sp","Epiactus sp",FALSE,FALSE,FALSE,FALSE,TRUE,,"Barnacles","Barnacle - Acorn","Barnacle",,,,FALSE,,,,,,,,,,,,
+92,"Epopella plicata","Epopella plicata",FALSE,TRUE,TRUE,FALSE,TRUE,"Elminius plicatus","Barnacles","Barnacle - Acorn","Barnacle","IGSharedPrey","Gray, 1843",,TRUE,"Arthropoda","Maxillopoda","Thecostraca","Cirripedia","Thoracica","Sessilia",,,"Balanoidea","Archaeobalanidae",,"Epopella"
+93,"Eudoxochiton nobilis","Eudoxochiton nobilis",FALSE,FALSE,TRUE,FALSE,FALSE,,"Chitons","Chiton","Chiton",,,,FALSE,,,,,,,,,,,,
+94,"Evechinus chloroticus","Evechinus chloroticus",FALSE,FALSE,FALSE,FALSE,FALSE,,"Other Count","Echinoderm","Echinoderm",,,,FALSE,,,,,,,,,,,,
+95,"Gelidium caulacantheum",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+96,"Gelidium pusillum",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+97,"Gelidium sp",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+98,"Gigartina chapmanii",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+99,"Gigartina clavifera",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+100,"Gigartina decipiens",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+101,"Gigartina laingii",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+102,"Gigartina livida",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+103,"Gigartina marcrocarpa",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+104,"Gigartina sp",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+105,"Gigartina sp green",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+107,"Gloioderma sp",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+108,"Glossophora kunthii",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+109,"Gravel","Gravel",FALSE,FALSE,TRUE,FALSE,TRUE,,"Other Cover","Substrate","Substrate",,,,FALSE,,,,,,,,,,,,
+110,"Guildingia obtecta",,FALSE,FALSE,FALSE,FALSE,FALSE,,"Chitons","Chiton","Chiton",,,,FALSE,,,,,,,,,,,,
+111,"Haliotis iris",,FALSE,FALSE,FALSE,FALSE,FALSE,,"Other Count","Abalone","Abalone",,,,FALSE,,,,,,,,,,,,
+113,"Halopteris sp",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+114,"Haustrum haustorium","Haustrum haustorium",TRUE,TRUE,TRUE,FALSE,FALSE,"Subfamily: Ocenebrinae (Vermeij and Carlson, 20000","Haustrum haustorium","Whelk","Whelk","IGPred","Gmelin, 1791",,FALSE,"Mollusca","Gastropoda","Prosobranchia",,,"Neogastropoda",,,,"Muricidae","Haustrinae","Haustrum"
+115,"Helminthocladia australis",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+116,"Helminthora sp",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+117,"Herposiphonia sp",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+118,"Heterosiphonia sp",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+120,"Hildenbrandia sp",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+121,"Hormosira banksii",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+123,"Hormosira banksii Count",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+125,"Hymenena sp",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+126,"Jania sp",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+127,"Landsburgia sp",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+129,"Laurencia sp",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+131,"Lenormandia sp",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+132,"Haustrum scobina","Lepsiella scobina",TRUE,TRUE,TRUE,FALSE,FALSE,"(=Lepsiella scobina_scobina & Lepsiella_scobina_albomarginata","Haustrum scobina","Whelk","Whelk","IGPrey","Quoy & Gaimard, 1833","(albomarginata: Deshayes, 1839; see Beu, 2004",TRUE,"Mollusca","Gastropoda","Prosobranchia",,,"Neogastropoda",,,,"Muricidae","Haustrinae","Haustrum"
+134,"Lessonia sp",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+135,"Austrolittorina cincta","cincta",FALSE,TRUE,TRUE,TRUE,FALSE,"Nodilittorina cincta, Littorina_cincta","Austrolittorines","Snail","Austrolittorine snail","IGPreyPrey","Quoy & Gaimard, 1835","see Reid & Williams, 2004",TRUE,"Mollusca","Gastropoda","Prosobranchia","Apogastropoda","Caenogastropoda","Neotaenioglossa",,,"Littorinoidea","Littorinidae","Littorininae","Austrolittorina"
+137,"Austrolittorina antipodum","antipodum",FALSE,TRUE,TRUE,TRUE,FALSE,"Nodilittorina antipodum, Littorina_unifasciata","Austrolittorines","Snail","Austrolittorine snail","IGPreyPrey","Philippi, 1847",,FALSE,"Mollusca","Gastropoda","Prosobranchia","Apogastropoda","Caenogastropoda","Neotaenioglossa",,,"Littorinoidea","Littorinidae","Littorininae","Austrolittorina"
+139,"Lophurella sp",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+141,"Macrocystis sp",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+143,"Plaxiphora caelata","Plaxiphora caelata",FALSE,TRUE,TRUE,FALSE,FALSE,"Maorichiton caelatus, (= Aerilamma Hull = Guildingia Carpenter in Dall = Diaphoroplax Iredale = Maorichiton Iredale = Vaferichiton Iredale & Hull)","Chitons","Chiton","Chiton","IGPredPrey","Reeve, 1847",,TRUE,"Mollusca","Polyplacophora","Neoloricata",,,"Ischnochitonina",,,,"Mopaliidae",,"Plaxiphora"
+144,"Marginariella sp","Marginariella sp",FALSE,FALSE,TRUE,FALSE,FALSE,,"Other Count","Snail","Snail",,,,FALSE,,,,,,,,,,,,
+145,"Marionella prolifera",,FALSE,FALSE,FALSE,FALSE,FALSE,,"Other Count","????","????",,,,FALSE,,,,,,,,,,,,
+146,"Maurea punctulata",,FALSE,FALSE,FALSE,FALSE,FALSE,,"Other Count","Snail","Snail",,,,FALSE,,,,,,,,,,,,
+147,"Diloma aethiops","Melagraphia aethiops",FALSE,TRUE,TRUE,FALSE,FALSE,"Melagraphia aethiops","Other Count","Snail","Dilomid snail","IGPredPrey","Gmelin,1791","see Donald, Kennedy & Spencer 2005",TRUE,"Mollusca","Gastropoda","Prosobranchia",,,"Vetigastropoda",,,"Trochoidea","Trochidae","Trochinae","Diloma"
+149,"Melanthalia sp",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+150,"Mesogloia sp",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+151,"Microcladia sp",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+152,"Microzonia sp",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+154,"Myriogloia sp",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+155,"Myriogramme sp",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+156,"Mytilus galloprovincialis","Mytilus galloprovincialis",FALSE,TRUE,TRUE,FALSE,TRUE,,"Mussels","Bivalve - Mussel","Mussel","IGSharedPrey","Lamarck,1819","=aoteanus Powell",TRUE,"Mollusca","Bivalvia","Pteriomorpha",,,"Mytiloida",,,,"Mytilidae","Mytilinae","Mytilus"
+157,"Nemalion sp",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+158,"Notheia anomala",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+159,"Notoacmea parviconoidea","Notoacmea parviconoidea",FALSE,TRUE,TRUE,TRUE,FALSE,,"Notoacmid limpets","Limpet - Acmid","Notoacmid limpet","IGSharedPrey","Suter, 1907",,FALSE,"Mollusca","Gastropoda","Prosobranchia",,,"Docoglossa",,,,"Lottidae",,"Notoacmea"
+161,"Padina sp",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+163,"Patelloida corticata","Patelloida corticata",FALSE,TRUE,TRUE,TRUE,FALSE,,"Other Limpets","Limpet - Acmid","Notoacmid limpet","IGPredPrey","Hutton, 1880",,TRUE,"Mollusca","Gastropoda","Prosobranchia",,,"Docoglossa",,,,"Lottidae",,"Patelloida"
+164,"Pateriella spp (2)","Pateriella regularis",FALSE,FALSE,TRUE,FALSE,FALSE,,"Other Count","Echinoderm","Echinoderm",,,,FALSE,,,,,,,,,,,,
+166,"Perna canaliculus","Perna",FALSE,TRUE,TRUE,FALSE,TRUE,,"Mussels","Bivalve - Mussel","Mussel","IGSharedPrey","Gmelin,1791",,FALSE,"Mollusca","Bivalvia","Pteriomorpha",,,"Mytiloida",,,,"Mytilidae","Mytilinae","Perna"
+167,"Petalonia fascia",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+168,"Phyllophora sp",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+169,"Pleonosporium complex",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+170,"Plocamium sp",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+172,"Polysiphonia sp",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+173,"Porphyra sp",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+176,"Pterocladia sp",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+177,"Pyura sp",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Count","Tunicate","Tunicate",,,,FALSE,,,,,,,,,,,,
+178,"Radiacmea inconspicua","Radiacmea inconspicua",FALSE,FALSE,FALSE,FALSE,FALSE,,"Notoacmid limpets","Limpet - Acmid","Notoacmid limpet",,"Gray in Dieffenbach, 1843",,FALSE,,,,,,,,,,,,
+179,"Ralfsia sp",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+180,"Rhizoclonium sp",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+181,"Rhodophyllis sp",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+182,"Rhodymenia sp",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+183,"Risellopsis varia","Risellopsis varia",FALSE,TRUE,TRUE,TRUE,FALSE,,"Other Count","Snail","Snail","IGSharedPrey","Hutton, 1873",,TRUE,"Mollusca","Gastropoda","Prosobranchia",,,"Neotaenioglossa",,,,"Littorinidae","Lacuninae","Risselopsis"
+185,"Sargassum sp",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+186,"Scianaia sp",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+187,"Scutus beviculus",,FALSE,FALSE,FALSE,FALSE,FALSE,,"Other Count","Snail","Other",,,,FALSE,,,,,,,,,,,,
+188,"Scytosiphon sp",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+189,"Scytothamnus sp",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+190,"Sediment","Sediment",FALSE,FALSE,TRUE,FALSE,TRUE,,"Other Cover","Substrate","Substrate",,,,FALSE,,,,,,,,,,,,
+191,"Siphonaria spp","Siphonaria spp",FALSE,FALSE,FALSE,FALSE,FALSE,,"Other Limpets","Limpet - Pulmonate","Other limpet",,"see Jenkins, 1982",,FALSE,,,,,,,,,,,,
+195,"Splachnidium rugosum",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+196,"Sporochnus sp",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+197,"Spyridia dasyoides",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+198,"Stictosiphonia sp",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+200,"UNID Tar","Tar UNID",FALSE,FALSE,TRUE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+203,"Dicathais orbita","Dicathais orbita",TRUE,FALSE,TRUE,FALSE,FALSE,"Neothais scalaris, Thais_orbita","Other Count","Whelk","Whelk","IGPredPrey","Gmelin, 1791",,FALSE,"Mollusca","Gastropoda","Prosobranchia",,,"Neogastropoda",,,,"Muricidae",,"Dicathais"
+204,"Thoristella chathamensis","Thoristella chathamensis",FALSE,FALSE,TRUE,FALSE,FALSE,,"Other Count","Snail","Snail","IGPredPrey","Hutton",,FALSE,"Mollusca","Gastropoda","Prosobranchia",,,"Vetigastropoda",,,,"Trochidae",,"Thoristella"
+205,"Tinocladia sp",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+206,"Turbo smaragdus","Turbo smaragdus",FALSE,TRUE,TRUE,FALSE,FALSE,,"Other Count","Snail","Snail","IGPredPrey","Gmelin, 1791",,TRUE,"Mollusca","Gastropoda","Prosobranchia",,,"Vetigastropoda",,,,"Turbinidae","Turbininae","Turbo"
+207,"UNID","UNID",FALSE,TRUE,FALSE,FALSE,FALSE,,"UNID","UNID","UNID","IGPredPrey",,,FALSE,,,,,,,,,,,,
+209,"UNID Barnacle","UNID Barnacle",FALSE,TRUE,FALSE,FALSE,TRUE,,"UNID","UNID","Barnacle","IGSharedPrey",,,FALSE,"Arthropoda","Maxillopoda","Thecostraca","Cirripedia","Thoracica","Sessilia",,,,,,
+210,"UNID Brittlestar",,FALSE,FALSE,FALSE,FALSE,FALSE,,"UNID","UNID","Echinoderm",,,,FALSE,,,,,,,,,,,,
+212,"UNID Algae Brown",,FALSE,FALSE,FALSE,FALSE,TRUE,,"UNID","UNID","Algae",,,,FALSE,,,,,,,,,,,,
+213,"UNID Algae Green","UNID Green turf",FALSE,FALSE,TRUE,FALSE,TRUE,,"UNID","UNID","Algae",,,,FALSE,,,,,,,,,,,,
+214,"UNID Algae Red","UNID Red turf",FALSE,FALSE,TRUE,FALSE,TRUE,,"UNID","UNID","Algae",,,,FALSE,,,,,,,,,,,,
+220,"UNID Chiton","UNID Chiton",FALSE,TRUE,TRUE,FALSE,FALSE,,"UNID","UNID","Chiton","IGPredPrey",,,FALSE,"Mollusca","Polyplacophora","Neoloricata",,,,,,,,,
+221,"UNID Cladosporium",,FALSE,FALSE,FALSE,FALSE,FALSE,,"UNID","UNID","Algae",,,,FALSE,,,,,,,,,,,,
+222,"UNID Crab","UNID Crab",FALSE,FALSE,TRUE,FALSE,FALSE,,"UNID","UNID","Crustacean",,,,FALSE,,,,,,,,,,,,
+224,"UNID Cyanobacteria",,FALSE,FALSE,FALSE,FALSE,TRUE,,"UNID","UNID","UNID",,,,FALSE,,,,,,,,,,,,
+225,"UNID Eggmasses","UNID Eggmasses",FALSE,FALSE,TRUE,FALSE,TRUE,,"Other Count","UNID","UNID",,,,FALSE,,,,,,,,,,,,
+226,"UNID Fish",,FALSE,FALSE,FALSE,FALSE,FALSE,,"UNID","UNID","UNID",,,,FALSE,,,,,,,,,,,,
+231,"UNID Isopod",,FALSE,FALSE,FALSE,FALSE,FALSE,,"UNID","UNID","Crustacean",,,,FALSE,,,,,,,,,,,,
+232,"UNID Lichen",,FALSE,FALSE,FALSE,FALSE,TRUE,,"UNID","UNID","UNID",,,,FALSE,,,,,,,,,,,,
+233,"UNID Limpet","UNID Limpet",FALSE,TRUE,TRUE,FALSE,FALSE,,"UNID","UNID","Other limpet","IGPredPrey",,,FALSE,"Mollusca","Gastropoda","Prosobranchia",,,"Docoglossa",,,,,,
+234,"UNID Morea",,FALSE,FALSE,FALSE,FALSE,TRUE,,"UNID","UNID","UNID",,,,FALSE,,,,,,,,,,,,
+235,"UNID Mussel","UNID Mussel",FALSE,TRUE,FALSE,FALSE,TRUE,,"UNID","UNID","Mussel","IGSharedPrey",,,FALSE,"Mollusca","Bivalvia","Pteriomorpha",,,"Mytiloida",,,,,,
+236,"UNID Nereid",,FALSE,FALSE,FALSE,FALSE,FALSE,,"UNID","UNID","UNID",,,,FALSE,,,,,,,,,,,,
+237,"UNID Polychaeta",,FALSE,FALSE,FALSE,FALSE,FALSE,,"UNID","UNID","Polychaete",,,,FALSE,,,,,,,,,,,,
+255,"UNID Snail","UNID Snail",FALSE,TRUE,TRUE,FALSE,FALSE,,"UNID","UNID","Snail","IGPredPrey",,,FALSE,"Mollusca","Gastropoda","Prosobranchia",,,,,,,,,
+257,"UNID Sponge",,FALSE,FALSE,FALSE,FALSE,TRUE,,"UNID","UNID","UNID",,,,FALSE,,,,,,,,,,,,
+260,"UNID Tubeworm","UNID Tubeworm",FALSE,FALSE,TRUE,TRUE,TRUE,,"UNID","UNID","UNID",,,,FALSE,,,,,,,,,,,,
+261,"UNID Turf",,FALSE,FALSE,FALSE,FALSE,TRUE,,"UNID","UNID","UNID",,,,FALSE,,,,,,,,,,,,
+267,"Ulva sp",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+268,"Undaria pinnatifada",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+277,"Valvifera sp",,FALSE,FALSE,FALSE,FALSE,FALSE,,"Other Count","UNID","UNID",,,,FALSE,,,,,,,,,,,,
+278,"Xenostrobus pulex","Xeno",FALSE,TRUE,TRUE,FALSE,TRUE," Modiolus neozelanicus (Wilson, 1967)","Mussels","Bivalve - Mussel","Mussel","IGSharedPrey","Lamarck,1819",,TRUE,"Mollusca","Bivalvia","Pteriomorpha",,,"Mytiloida",,,,"Mytilidae","Modiolinae","Xenostrobus"
+279,"Xiphophora sp",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+280,"Zeacumantus subcarinatus","Zeacumantus subcarinatus",FALSE,TRUE,TRUE,FALSE,FALSE,,"Other Count","Snail","Snail","IGPredPrey","Sowerby, 1855",,FALSE,"Mollusca","Gastropoda","Prosobranchia",,,"Neotaenioglossa",,,,"Batillariidae",,"Zeacumantus"
+281,"Zonaria sp",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+282,"Zostera sp",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+283,"Not Feeding","Not Feeding",FALSE,TRUE,FALSE,FALSE,FALSE,,"Other Cover","Substrate","Substrate",,,,FALSE,,,,,,,,,,,,
+284,"Scavenging","Scavenging",FALSE,TRUE,FALSE,FALSE,FALSE,,"Other Cover","Substrate","Substrate",,,,FALSE,,,,,,,,,,,,
+285,"Atalacmea fragilis","Atalacmea fragilis",FALSE,TRUE,TRUE,FALSE,FALSE,,"Notoacmid limpets","Limpet - Acmid","Notoacmid limpet","IGPredPrey","Sowerby, 1823",,FALSE,"Mollusca","Gastropoda","Prosobranchia",,,"Docoglossa",,,,"Lottidae",,"Atalacmea"
+286,"Terenochiton inquinatus",,FALSE,FALSE,FALSE,FALSE,FALSE,,"Chitons","Chiton","Chiton",,,,FALSE,,,,,,,,,,,,
+287,"Rhyssoplax stangeri",,FALSE,FALSE,FALSE,FALSE,FALSE,"Anthochiton stangeri","Chitons","Chiton","Chiton",,,,FALSE,,,,,,,,,,,,
+288,"Ischnochiton maorianus","Ischnochiton maorianus",FALSE,FALSE,TRUE,FALSE,FALSE,,"Chitons","Chiton","Chiton",,,,FALSE,,,,,,,,,,,,
+289,"Rhyssoplax aerea",,FALSE,FALSE,FALSE,FALSE,FALSE,,"Chitons","Chiton","Chiton",,,,FALSE,,,,,,,,,,,,
+290,"Onithochiton neglectus neglectus","Onithochiton neglectus",FALSE,TRUE,TRUE,FALSE,FALSE,,"Chitons","Chiton","Chiton","IGPredPrey","Rochbrune, 1881","see O'Neill, 1985",TRUE,"Mollusca","Polyplacophora","Neoloricata",,,"Ischnochitonina",,,,"Chitonidae","Toniciinae","Onithochiton"
+291,"Lorica haruakiensis",,FALSE,FALSE,FALSE,FALSE,FALSE,,"Chitons","Chiton","Chiton",,,,FALSE,,,,,,,,,,,,
+292,"Cryptoconchus porsosus","Cryptoconchus porsosus",FALSE,FALSE,FALSE,FALSE,FALSE,,"Chitons","Chiton","Chiton",,,,FALSE,,,,,,,,,,,,
+293,"Notoplax violacea",,FALSE,FALSE,FALSE,FALSE,FALSE,,"Chitons","Chiton","Chiton",,,,FALSE,,,,,,,,,,,,
+294,"Notoplax cuneata",,FALSE,FALSE,FALSE,FALSE,FALSE,,"Chitons","Chiton","Chiton",,,,FALSE,,,,,,,,,,,,
+295,"Notoacmea helmsi","Notoacmea helmsi",FALSE,FALSE,TRUE,TRUE,FALSE,,"Notoacmid limpets","Limpet - Acmid","Notoacmid limpet",,"E. A. Smith, 1894",,FALSE,,,,,,,,,,,,
+296,"Notoacmea helmsi scapha",,FALSE,FALSE,FALSE,FALSE,FALSE,,"Notoacmid limpets","Limpet - Acmid","Notoacmid limpet",,,,FALSE,,,,,,,,,,,,
+297,"Notoacmea daedala","Notoacmea daedala",FALSE,TRUE,TRUE,TRUE,FALSE,,"Notoacmid limpets","Limpet - Acmid","Notoacmid limpet","IGSharedPrey","Suter","elongata (Quoy & Gaimard, 1834)",FALSE,"Mollusca","Gastropoda","Prosobranchia",,,"Docoglossa",,,,"Lottidae",,"Notoacmea"
+298,"Notoacmea pileopsis","Notoacmea pileopsis",FALSE,FALSE,TRUE,FALSE,FALSE,,"Notoacmid limpets","Limpet - Acmid","Notoacmid limpet",,"Nombron & Jacquinot, 1841",,FALSE,,,,,,,,,,,,
+299,"Notoacmea scopulina","Notoacmea scopulina",FALSE,FALSE,TRUE,TRUE,FALSE,,"Notoacmid limpets","Limpet - Acmid","Notoacmid limpet",,,,FALSE,,,,,,,,,,,,
+300,"Herpetopoma bella",,FALSE,FALSE,FALSE,FALSE,FALSE,,"Other Count","Snail","Snail",,,,FALSE,,,,,,,,,,,,
+301,"Diloma zelandica","Diloma zelandica",FALSE,TRUE,TRUE,FALSE,FALSE,"Zediloma atrovirens","Other Count","Snail","Dilomid snail","IGPredPrey","Quoy & Gaimard, 1834",,FALSE,"Mollusca","Gastropoda","Prosobranchia",,,"Vetigastropoda",,,"Trochoidea","Trochidae","Trochinae","Diloma"
+302,"Diloma arida","Diloma arida",FALSE,TRUE,TRUE,FALSE,FALSE,"Zediloma arida","Other Count","Snail","Dilomid snail","IGPredPrey","Finlay, 1926",,FALSE,"Mollusca","Gastropoda","Prosobranchia",,,"Vetigastropoda",,,"Trochoidea","Trochidae","Trochinae","Diloma"
+303,"Diloma subrostrata","Diloma coracina",FALSE,FALSE,FALSE,FALSE,FALSE,"Zediloma subrostrata","Other Count","Snail","Dilomid snail",,,,FALSE,,,,,,,,,,,,
+304,"Diloma bicanaliculata","Diloma bicanaliculata",FALSE,TRUE,TRUE,FALSE,FALSE,"..lenior on South Island, Anisdiloma lugubris, Monodonta lugubris","Other Count","Snail","Dilomid snail","IGPredPrey","Dunker in Philippi, 1844","(Fractarmilla) Finlay, 1926",FALSE,"Mollusca","Gastropoda","Prosobranchia",,,"Vetigastropoda",,,"Trochoidea","Trochidae","Trochinae","Diloma"
+305,"Diloma coracina","Diloma coracina",FALSE,FALSE,FALSE,FALSE,FALSE,"Cavodiloma coracina","Other Count","Snail","Dilomid snail",,,,FALSE,,,,,,,,,,,,
+306,"Micrelenchus tenebrosus",,FALSE,FALSE,FALSE,FALSE,FALSE,"Micrelenchus huttoni","Other Count","Snail","Snail",,,,FALSE,,,,,,,,,,,,
+307,"Micrelenchus dilatatus",,FALSE,FALSE,FALSE,FALSE,FALSE,,"Other Count","Snail","Snail",,,,FALSE,,,,,,,,,,,,
+308,"Micrelenchus sanguineus",,FALSE,FALSE,FALSE,FALSE,FALSE,,"Other Count","Snail","Snail",,,,FALSE,,,,,,,,,,,,
+309,"Thoristella oppressa",,FALSE,FALSE,FALSE,FALSE,FALSE,,"Other Count","Snail","Snail",,,,FALSE,,,,,,,,,,,,
+310,"Clanculus peccatus",,FALSE,FALSE,FALSE,FALSE,FALSE,,"Other Count","Snail","Snail",,,,FALSE,,,,,,,,,,,,
+311,"Trochus tiaratus","Trochus tiaratus",FALSE,FALSE,FALSE,FALSE,FALSE,,"Other Count","Snail","Snail",,,,FALSE,,,,,,,,,,,,
+312,"Trochus viridis","Trochus viridis",FALSE,FALSE,FALSE,FALSE,FALSE,,"Other Count","Snail","Snail",,,,FALSE,,,,,,,,,,,,
+313,"Cantharidus opalus","Canth opalus",FALSE,FALSE,TRUE,FALSE,FALSE,,"Other Count","Snail","Snail",,,"see Marshall, 1998",FALSE,,,,,,,,,,,,
+314,"Cantharidus purpureus","Canth purpureus",FALSE,FALSE,FALSE,FALSE,FALSE,,"Other Count","Snail","Snail",,,"see Marshall, 1998",FALSE,,,,,,,,,,,,
+315,"Fossarina rimata","Fossarina rimata",FALSE,TRUE,FALSE,FALSE,FALSE,,"Other Count","Snail","Snail","IGPredPrey","Hutton 1884",,FALSE,"Mollusca","Gastropoda","Prosobranchia",,,"Vetigastropoda",,,"Trochoidea","Trochidae",,"Fossarina"
+316,"Maurea tigris",,FALSE,FALSE,FALSE,FALSE,FALSE,,"Other Count","Snail","Snail",,,,FALSE,,,,,,,,,,,,
+317,"Maurea punctulaea",,FALSE,FALSE,FALSE,FALSE,FALSE,,"Other Count","Snail","Snail",,,,FALSE,,,,,,,,,,,,
+318,"Maurea pellucida",,FALSE,FALSE,FALSE,FALSE,FALSE,,"Other Count","Snail","Snail",,,,FALSE,,,,,,,,,,,,
+319,"Maurea osornei",,FALSE,FALSE,FALSE,FALSE,FALSE,,"Other Count","Snail","Snail",,,,FALSE,,,,,,,,,,,,
+320,"Antisolarium egenum",,FALSE,FALSE,FALSE,FALSE,FALSE,,"Other Count","Snail","Snail",,,,FALSE,,,,,,,,,,,,
+321,"Turbo granosus",,FALSE,FALSE,FALSE,FALSE,FALSE,"Modelia granosa","Other Count","Snail","Snail",,,,FALSE,,,,,,,,,,,,
+322,"Nerita atramentosa","Nerita",FALSE,TRUE,FALSE,FALSE,FALSE,"Nerita melanotragus","Other Count","Snail","Snail","IGPredPrey","Reeve, 1855",,FALSE,"Mollusca","Gastropoda","Prosobranchia",,,"Neritopsida",,,,"Neritidae",,"Nerita"
+323,"Siphonaria australis","Siphonaria australis",FALSE,TRUE,TRUE,TRUE,FALSE,"Siphonaria zelandica (erronous)","Other Limpets","Limpet - Pulmonate","Other limpet","IGPredPrey","Quoy & Gaimard,1833","see Jenkins, 1982",TRUE,"Mollusca","Gastropoda","Pulmonata",,,"Basommatophora",,,,"Siphonaridae",,"Siphonaria"
+324,"Siphonaria propria","Siphonaria propria",FALSE,FALSE,FALSE,FALSE,FALSE,"Siphonaria cookiana (erronous)","Other Limpets","Limpet - Pulmonate","Other limpet",,"see Jenkins, 1982",,FALSE,,,,,,,,,,,,
+325,"Trimusculus conicus","Trimusculus conicus",FALSE,TRUE,TRUE,FALSE,FALSE,"Gadina conica","Other Limpets","Limpet - Pulmonate","Other limpet","IGPredPrey","Schmidt, 1818","Not a true limpet - breathes air",FALSE,"Mollusca","Gastropoda","Orthogastropoda",,,"Eupulmonata",,,"Triumusculoidea","Trimusculidae",,
+326,"Onchidella nigricans","Onchidella nigricans",FALSE,FALSE,TRUE,FALSE,FALSE,,"Other Count","""Nudibranch""","""Nudibranch""",,,,FALSE,,,,,,,,,,,,
+327,"Chamaesipho columna","columna",FALSE,TRUE,TRUE,FALSE,TRUE,,"Barnacles","Barnacle - Acorn","Barnacle","IGSharedPrey","Spengler",,TRUE,"Arthropoda","Maxillopoda","Thecostraca","Cirripedia","Thoracica","Sessilia",,,"Chthamaloidea","Chthamalidae",,"Chamaesipho"
+328,"Chamaesipho brunnea","brunnea",FALSE,TRUE,TRUE,FALSE,TRUE,,"Barnacles","Barnacle - Acorn","Barnacle","IGSharedPrey","Moore, 1944",,TRUE,"Arthropoda","Maxillopoda","Thecostraca","Cirripedia","Thoracica","Sessilia",,,"Chthamaloidea","Chthamalidae",,"Chamaesipho"
+329,"UNID Notoacmea","UNID Notoacmea",FALSE,TRUE,FALSE,FALSE,FALSE,,"Notoacmid limpets","Limpet - Acmid","Notoacmid limpet","IGSharedPrey",,,FALSE,"Mollusca","Gastropoda","Prosobranchia",,,"Docoglossa",,,,"Lottidae",,"Notoacmea"
+330,"UNID Diloma","UNID Diloma",FALSE,TRUE,FALSE,FALSE,FALSE,,"Other Count","Snail","Dilomid Snail","IGPredPrey",,,FALSE,"Mollusca","Gastropoda","Prosobranchia",,,"Vetigastropoda",,,"Trochoidea","Trochidae","Trochinae","Diloma"
+331,"Paratrophon patens","Paratrophon patens",TRUE,TRUE,TRUE,FALSE,FALSE,,"Other Count","Whelk","Whelk","IGPredPrey","Hombron & Jacquinot, 1854",,FALSE,"Mollusca","Gastropoda","Prosobranchia",,,"Neogastropoda",,,,"Muricidae","Muricinae","Paratrophon"
+332,"Cominella adspersa","adspersa",TRUE,TRUE,FALSE,FALSE,FALSE,,"Other Count","Whelk","Whelk",,"Bruguière, 1789",,FALSE,"Mollusca","Gastropoda","Prosobranchia",,,"Neogastropoda",,,,"Buccinulidae","Cominellinae","Cominella"
+333,"Amourichiton sp","Amourichiton",FALSE,TRUE,TRUE,FALSE,FALSE,,"Chitons","Chiton","Chiton","IGPredPrey",,,FALSE,"Mollusca","Polyplacophora","Neoloricata",,,,,,,,,
+334,"Haustrum lacunosus","Lepsithais lacunosus",TRUE,TRUE,TRUE,TRUE,FALSE,"(=Lepsithais lacunosus)","Other Count","Whelk","Whelk","IGPredPrey","Bruguière, 1789","see Beu, 2004",FALSE,"Mollusca","Gastropoda","Prosobranchia",,,"Neogastropoda",,,,"Muricidae","Haustrinae","Haustrum"
+335,"Leptograpsus variegatus","Leptograpsus variegatus",FALSE,FALSE,TRUE,FALSE,FALSE,,"Other Count","Crab","Crustacean",,,,FALSE,,,,,,,,,,,,
+336,"Calantica spinosa","Calantica spinosa",FALSE,TRUE,TRUE,FALSE,TRUE,,"Barnacles","Barnacle - Gooseneck","Barnacle","IGSharedPrey","Quoy & Gaimard",,FALSE,"Arthropoda","Maxillopoda","Thecostraca","Cirripedia","Thoracica","Pedunculata",,,,"Calanticidae",,"Calantica"
+337,"Asterodon dilatatus","Asterodon dilatatus",FALSE,FALSE,FALSE,FALSE,FALSE,,"Other Count","Echinoderm","Echinoderm",,,,FALSE,,,,,,,,,,,,
+338,"Astrostole scabra","Astrostole scabra",FALSE,FALSE,FALSE,FALSE,FALSE,,"Other Count","Echinoderm","Echinoderm",,,,FALSE,,,,,,,,,,,,
+339,"Stichaster australis","Stichaster australis",TRUE,FALSE,TRUE,FALSE,FALSE,,"Other Count","Echinoderm","Echinoderm",,,,FALSE,,,,,,,,,,,,
+340,"Haliotis australis",,FALSE,FALSE,FALSE,FALSE,FALSE,,"Other Count","Abalone","Abalone",,,,FALSE,,,,,,,,,,,,
+341,"Haliotis virginea",,FALSE,FALSE,FALSE,FALSE,FALSE,,"Other Count","Abalone","Abalone",,,,FALSE,,,,,,,,,,,,
+342,"Margarella sp","Margarella spp",FALSE,TRUE,TRUE,FALSE,FALSE,,"Other Count","Snail","Snail","IGPredPrey",,,FALSE,"Mollusca","Gastropoda","Prosobranchia",,,"Vetigastropoda",,,"Trochoidea","Trochidae","Trochinae","Margarella"
+343,"Maoricolpus roseus",,FALSE,FALSE,FALSE,FALSE,FALSE,,"Other Count","Snail","Snail",,,,FALSE,,,,,,,,,,,,
+344,"Epitoneum jukesianum",,FALSE,FALSE,FALSE,FALSE,FALSE,,"Other Count","Whelk","Whelk",,,,FALSE,,,,,,,,,,,,
+345,"Onchidella flavescens",,FALSE,FALSE,FALSE,FALSE,FALSE,,"Other Count","""Nudibranch""","""Nudibranch""",,,,FALSE,,,,,,,,,,,,
+346,"Notoacmea badia","Notoacmea badia",FALSE,FALSE,TRUE,TRUE,FALSE,,"Notoacmid limpets","Limpet - Acmid","Notoacmid limpet",,"Oliver, 1926",,FALSE,,,,,,,,,,,,
+347,"Notoacmea elongata","Notoacmea elongata",FALSE,FALSE,TRUE,TRUE,TRUE,,"Notoacmid limpets","Limpet - Acmid","Notoacmid limpet",,"Quoy & Gaimard, 1834",,FALSE,,,,,,,,,,,,
+348,"Onithochiton neglectus subantarcticus",,FALSE,FALSE,FALSE,FALSE,FALSE,,"Chitons","Chiton","Chiton",,"Suter, 1906","see O'Neill, 1985",FALSE,,,,,,,,,,,,
+349,"Saccostrea cucullata","Saccostrea cucullata",FALSE,FALSE,FALSE,FALSE,TRUE,"Rock Oyster","Other Cover","Bivalve","Bivalve",,,,FALSE,,,,,,,,,,,,
+350,"Xenostrobus securis",,FALSE,FALSE,FALSE,FALSE,TRUE,,"Mussels","Bivalve - Mussel","Mussel",,"Lamarck, 1819",,FALSE,,,,,,,,,,,,
+351,"Buccinulum heteromorphum","B heteromorphum",FALSE,FALSE,FALSE,FALSE,FALSE,,"Other Count","Whelk","Whelk",,,,FALSE,"Mollusca","Gastropoda","Prosobranchia",,,"Neogastropoda",,,,"Buccinulidae","Buccinulinae","Buccinulum"
+352,"Buccinulum linea","B linea",FALSE,FALSE,FALSE,FALSE,FALSE,"B lineum","Other Count","Whelk","Whelk",,"Martyn, 1784","see Beu et. al, 1976 (printout)",FALSE,"Mollusca","Gastropoda","Prosobranchia",,,"Neogastropoda",,,,"Buccinulidae","Buccinulinae","Buccinulum"
+353,"Buccinulum sp","Buccinulum UNID",TRUE,TRUE,TRUE,FALSE,FALSE,,"Other Count","Whelk","Whelk","IGPredPrey",,,FALSE,"Mollusca","Gastropoda","Prosobranchia",,,"Neogastropoda",,,,"Buccinulidae","Buccinulinae","Buccinulum"
+354,"Cominella virgata","virgata",TRUE,FALSE,FALSE,FALSE,FALSE,,"Other Count","Whelk","Whelk",,,,FALSE,,,,,,,,,,,,
+355,"Taron dubius","Taron dubius",TRUE,FALSE,FALSE,FALSE,FALSE,,"Other Count","Whelk","Whelk",,,,FALSE,,,,,,,,,,,,
+356,"UNID Macroalgae","Macroalgae",FALSE,FALSE,TRUE,FALSE,TRUE,,"Other Cover","Algae","Algae",,,,FALSE,,,,,,,,,,,,
+357,"Nereididae spp","Nereididae Polychaete",TRUE,FALSE,TRUE,FALSE,FALSE,,"Other Count","Polychaete","Polychaete",,,,FALSE,,,,,,,,,,,,
+358,"Notoacmea Black","Notoacmea UNID Black",FALSE,TRUE,TRUE,TRUE,FALSE,,"Notoacmid limpets","Limpet - Acmid","Notoacmid limpet","IGSharedPrey",,,TRUE,"Mollusca","Gastropoda","Prosobranchia",,,"Docoglossa",,,,"Lottidae",,"Notoacmea"
+359,"Notoacmea Net","Notoacmea UNID Net",FALSE,TRUE,TRUE,TRUE,FALSE,,"Notoacmid limpets","Limpet - Acmid","Notoacmid limpet","IGSharedPrey",,,TRUE,"Mollusca","Gastropoda","Prosobranchia",,,"Docoglossa",,,,"Lottidae",,"Notoacmea"
+360,"Notoacmea 2spokes","Notoacmea UNID 2spokes",FALSE,TRUE,TRUE,TRUE,FALSE,,"Notoacmid limpets","Limpet - Acmid","Notoacmid limpet","IGSharedPrey",,,FALSE,"Mollusca","Gastropoda","Prosobranchia",,,"Docoglossa",,,,"Lottidae",,"Notoacmea"
+361,"Notoacmea Radialspokes","Notoacmea UNID Radialspokes",FALSE,TRUE,TRUE,TRUE,FALSE,,"Notoacmid limpets","Limpet - Acmid","Notoacmid limpet","IGSharedPrey",,,TRUE,"Mollusca","Gastropoda","Prosobranchia",,,"Docoglossa",,,,"Lottidae",,"Notoacmea"
+362,"UNID Spider","Spider",FALSE,FALSE,TRUE,FALSE,FALSE,,"Other Count","Arachnid","Arachnid",,,,FALSE,,,,,,,,,,,,
+364,"UNID Mite","Red mite",FALSE,FALSE,TRUE,FALSE,FALSE,,"Other Count","Insect","Insect",,,,FALSE,,,,,,,,,,,,
+365,"Hemigrapsus sexdentatus","Hemigrapsus sexdentatus",TRUE,FALSE,TRUE,FALSE,FALSE,"Hemigrapsus edwardsii","Other Count","Crab","Crustacean",,,"see McLay & Schubart, 2004",FALSE,,,,,,,,,,,,
+366,"UNID Platyhelminthes","Platyhelminthes",FALSE,FALSE,TRUE,FALSE,FALSE,,"Other Count","Platyhelminthes","Platyhelminthes",,,,FALSE,,,,,,,,,,,,
+367,"Lasaea rubra hinemoa","Lasaea rubra",FALSE,TRUE,TRUE,FALSE,TRUE,,"Other Cover","Bivalve","Other bivalve","IGPreyPrey","Montagu?, or Finlay, 1928",,TRUE,"Mollusca","Bivalvia","Heterodonta",,,"Veneroida",,,,"Lasaedae","Lasaeinaez","Lasaea"
+368,"Sabellid sp","Sabellid sp",FALSE,FALSE,TRUE,FALSE,TRUE,,"Other Cover","Polychaete","Polychaete",,,,FALSE,,,,,,,,,,,,
+369,"UNID Worm","UNID Worm",FALSE,FALSE,TRUE,FALSE,FALSE,,"UNID","UNID","UNID",,,,FALSE,,,,,,,,,,,,
+370,"Notoacmea Apexstar","Notoacmea UNID Apexstar",FALSE,TRUE,TRUE,TRUE,FALSE,,"Notoacmid limpets","Limpet - Acmid","Notoacmid limpet","IGSharedPrey",,,FALSE,"Mollusca","Gastropoda","Prosobranchia",,,"Docoglossa",,,,"Lottidae",,"Notoacmea"
+371,"Haematopus spp","Oystercatcher unid",TRUE,FALSE,FALSE,FALSE,FALSE,,"Other Count","Aves","Aves",,,,FALSE,,,,,,,,,,,,
+372,"Siphonaria eggs","Siphonaria eggs",FALSE,FALSE,TRUE,TRUE,FALSE,,"Other Count","Eggs","Eggs",,,,FALSE,,,,,,,,,,,,
+373,"UNID Clam","UNID Clam",FALSE,FALSE,TRUE,FALSE,TRUE,,"Other Cover","Bivalve","Other bivalve",,,,FALSE,,,,,,,,,,,,
+374,"Haustrum scobina eggmasses","Lepsiella scobina eggs",FALSE,FALSE,TRUE,FALSE,FALSE,,"Other Count","Eggs","Eggs",,,,FALSE,,,,,,,,,,,,
+375,"Metacarcinus novaezelandiae",,FALSE,FALSE,FALSE,FALSE,FALSE,"Cancer novaezelandiae","Other Count","Crustaceans","Crustacean",,,,FALSE,,,,,,,,,,,,
+376,"Montfortula chathamensis","Montfortula chathamensis",FALSE,TRUE,TRUE,TRUE,FALSE,"Montfortula rugosa, Emarginula_rugosa","Other Limpets","Limpet - Fissurelid","Other limpet","IGPredPrey","Finlay, 1928",,FALSE,"Mollusca","Gastropoda","Prosobranchia",,,"Vetigastropoda",,,,"Fissurellidae","Fissurellinae",
+377,"Desis marina","Spider-Desis",FALSE,FALSE,FALSE,FALSE,FALSE,,"Other Count","Arachnid","Arachnid",,"Hector, 1877",,FALSE,,,,,,,,,,,,
+378,"Plaxiphora obtecta","Plaxiphora obtecta",FALSE,TRUE,TRUE,FALSE,FALSE,,"Chitons","Chiton","Chiton","IGPredPrey","Carpenter in Pilsbry, 1893",,FALSE,"Mollusca","Polyplacophora","Neoloricata",,,"Ischnochitonina",,,,"Mopaliidae",,"Plaxiphora"
+379,"Petrolisthes sp","Petrolisthes",FALSE,FALSE,TRUE,FALSE,FALSE,,"Other Count","Crustacean","Crustacean",,,,FALSE,,,,,,,,,,,,
+380,"Serpullid sp","Serpullid sp",FALSE,FALSE,TRUE,FALSE,FALSE,,"Other Cover","Polychaete","Polychaete",,,,FALSE,,,,,,,,,,,,
+381,"Eatoniella sp","Eatoniella sp",FALSE,TRUE,TRUE,FALSE,FALSE,,"Other Count","Snail","Snail","IGPredPrey","Genus: Dall, 1876","""little black snail""",FALSE,"Mollusca","Gastropoda","Prosobranchia",,,"Neotaenioglossa",,,,"Eatoniellidae",,"Eatoniella"
+382,"Chamaesipho columna DEADCOUNT","columna DEADCOUNT",FALSE,FALSE,TRUE,FALSE,FALSE,,"Barnacle Count - DEAD","Barnacle","Barnacle",,,,FALSE,,,,,,,,,,,,
+383,"Chamaesipho columna COUNT","columna COUNT",FALSE,FALSE,TRUE,FALSE,FALSE,,"Barnacle Count","Barnacle","Barnacle",,,,FALSE,,,,,,,,,,,,
+384,"Epopella plicata DEADCOUNT","Epopella DEADCOUNT",FALSE,FALSE,TRUE,FALSE,FALSE,,"Barnacle Count","Barnacle","Barnacle",,,,FALSE,,,,,,,,,,,,
+385,"Epopella plicata COUNT","Epopella COUNT",FALSE,FALSE,TRUE,FALSE,FALSE,,"Barnacle Count","Barnacle","Barnacle",,,,FALSE,,,,,,,,,,,,
+386,"Xenostrobus pulex DEADCOUNT","Xeno DEADCOUNT",FALSE,FALSE,TRUE,FALSE,FALSE,,"Mussels Count","Bivalve","Mussel",,,,FALSE,,,,,,,,,,,,
+387,"Xenostrobus pulex COUNT","Xeno COUNT",FALSE,FALSE,TRUE,FALSE,FALSE,,"Mussels Count","Bivalve","Mussel",,,,FALSE,,,,,,,,,,,,
+388,"Mytilus galloprovincialis DEADCOUNT","Mytilus DEADCOUNT",FALSE,FALSE,TRUE,FALSE,FALSE,,"Mussels Count","Bivalve","Mussel",,,,FALSE,,,,,,,,,,,,
+389,"Mytilus galloprovincialis COUNT","Mytilus COUNT",FALSE,FALSE,TRUE,FALSE,FALSE,,"Mussels Count","Bivalve","Mussel",,,,FALSE,,,,,,,,,,,,
+390,"Elminius modestus DEADCOUNT","Elminius DEADCOUNT",FALSE,FALSE,TRUE,FALSE,FALSE,,"Barnacle Count","Barnacle","Barnacle",,,,FALSE,,,,,,,,,,,,
+391,"Elminius modestus COUNT","Elminius COUNT",FALSE,FALSE,TRUE,FALSE,FALSE,,"Barnacle Count","Barnacle","Barnacle",,,,FALSE,,,,,,,,,,,,
+392,"Chamaesipho brunnea DEADCOUNT","brunnea DEADCOUNT",FALSE,FALSE,TRUE,FALSE,FALSE,,"Barnacle Count","Barnacle","Barnacle",,,,FALSE,,,,,,,,,,,,
+393,"Chamaesipho brunnea COUNT","brunnea COUNT",FALSE,FALSE,TRUE,FALSE,FALSE,,"Barnacle Count","Barnacle","Barnacle",,,,FALSE,,,,,,,,,,,,
+394,"Porphyra COUNT","Porphyra COUNT",FALSE,FALSE,TRUE,FALSE,FALSE,,"Macroalgae Count","Macroalgae","Macroalgae",,,,FALSE,,,,,,,,,,,,
+395,"Perna canaliculus DEADCOUNT","Perna DEADCOUNT",FALSE,FALSE,TRUE,FALSE,FALSE,,"Mussels Count","Bivalve","Mussel",,,,FALSE,,,,,,,,,,,,
+396,"Perna canaliculus COUNT","Perna COUNT",FALSE,FALSE,TRUE,FALSE,FALSE,,"Mussels Count","Bivalve","Mussel",,,,FALSE,,,,,,,,,,,,
+397,"Aulacomya atra maoriana DEADCOUNT","Aulocomya-DEAD-COUNT",FALSE,FALSE,TRUE,FALSE,FALSE,,"Mussels Count","Bivalve","Mussel",,,,FALSE,,,,,,,,,,,,
+398,"Aulacomya atra maoriana COUNT","Aulocomya-COUNT",FALSE,FALSE,TRUE,FALSE,FALSE,,"Mussels Count","Bivalve","Mussel",,,,FALSE,,,,,,,,,,,,
+399,"Sprirorbid sp","Sprirorbid sp",FALSE,FALSE,TRUE,FALSE,TRUE,,"Other Cover","Polychaete","Polychaete",,,,FALSE,,,,,,,,,,,,

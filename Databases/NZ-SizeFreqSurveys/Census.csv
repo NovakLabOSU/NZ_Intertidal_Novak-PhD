@@ -1,0 +1,49 @@
+"CensusID","DateID","SiteID","AreaID","CounterID","DielID","TimeStart","TimeEnd","CensusConditions","CensusComments"
+1,108,62,1,10,1,"1899-12-30 14:50:00",,"clear sky, breeze from SW, bigger waves",
+5,117,62,1,10,2,"1899-12-30 04:00:00",,"overcast, breeze from north, avg-low waves",
+6,117,62,1,10,1,"1899-12-30 16:00:00",,"overcast, moderate wind from NE",
+7,110,90,1,10,1,"1899-12-30 07:00:00",,"P. cloudy, cold, windy (from South), sunrise, low swell",
+8,155,90,1,10,1,"1899-12-30 07:30:00",,"overcast, ""warm"" light wind from South, low waves/swell, rain","chitons already hiding"
+9,155,90,1,10,2,"1899-12-30 20:00:00",,"overcast, waves up",
+10,127,66,1,10,2,"1899-12-30 07:00:00",,"clear frosty night, slight wind from southwest, becoming cleary sunny day","chitons not out - too cold?  Melagraphia is present around pools, but low #s.  Austro. Cincta ver large above barnacle zone ~16mm!"
+11,127,66,1,10,1,"1899-12-30 16:30:00",,"clear sky, dusk, strong wind from South, Waves up",
+12,128,66,1,10,1,"1899-12-30 17:00:00",,"clear sky, wind from south",
+13,144,91,1,10,2,"1899-12-30 20:00:00",,"clear night, breeze from South, low waves","chitons are out"
+14,145,91,1,10,1,"1899-12-30 08:30:00",,"clear sunny sky, no wind, low swell","chitons not out, almost all mussels estimated since in cracks"
+15,148,91,1,10,1,"1899-12-30 13:22:00",,"foggy & overcast, mid-large swell & waves, breeze from South, crap tide",
+16,113,91,1,10,1,"1899-12-30 08:00:00",,"clear sky, small swell, no waves",
+17,151,90,1,10,1,"1899-12-30 07:15:00",,"dawn, clear sky, becoming overcast after, flat water, no wind, no swell",
+18,151,91,1,10,2,"1899-12-30 20:30:00",,"night, clear sky, breeze from north, nearly flat water",
+19,152,91,1,10,1,"1899-12-30 07:44:00",,"Thinly overcast, light swell, no wind, good tide",
+20,112,90,1,10,1,"1899-12-30 08:30:00",,"overcast, breeze from N, v. low swell, no waves",
+22,157,32,1,10,1,"1899-12-30 12:00:00",,,
+23,33,37,1,10,1,"1899-12-30 12:00:00",,,
+24,36,40,1,10,1,"1899-12-30 08:00:00",,,
+26,32,36,1,10,1,"1899-12-30 07:00:00",,,
+27,178,90,1,18,1,,,,"Feb5-6th"
+28,177,91,1,18,1,,,,"Feb 4-5th"
+29,197,96,1,18,1,,,,
+30,196,97,1,18,1,,,,"Feb/March"
+31,172,62,1,18,1,,,,"Jan 29-30th"
+32,170,66,1,18,1,,,,"Mussels from 1st 20x20cm core"
+33,170,62,1,18,1,,,,"Mussels from 2nd 20x20cm core"
+35,173,66,1,18,1,,,,"Mussels from 1st 10x10cm core"
+36,173,66,1,18,1,,,,"Mussels from 2nd 10x10cm core"
+37,173,66,1,18,1,,,,"Mussels from 20x20cm core"
+38,214,90,1,19,1,,,,"June 16-27th"
+39,238,96,1,19,1,,,,"July"
+40,238,97,1,19,1,,,,"July"
+41,217,91,1,19,1,,,,"June 18-27th"
+42,268,62,1,19,1,,,,
+43,268,66,1,19,1,,,,"August"
+44,182,91,1,10,1,,,,"anecdotal"
+45,196,97,1,10,1,,,,"anecdotal"
+46,196,96,1,10,1,,,,"anecdotal"
+47,199,97,1,10,1,,,,"anecdotal"
+48,202,96,1,10,1,,,,"anecdotal"
+49,202,97,1,10,1,,,,"anecdotal"
+50,237,91,1,10,1,,,,"anecdotal"
+51,238,96,1,10,1,,,,"anecdotal"
+52,209,97,1,10,1,,,,"anecdotal"
+53,213,97,1,10,1,,,,"anecdotal"
+54,212,97,1,10,1,,,,"anecdotal"
