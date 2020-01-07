@@ -1,0 +1,258 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf340
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\margl1440\margr1440\vieww12260\viewh9760\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
+
+\f0\fs24 \cf0 Included are two folders, one that contains files that include all the data on feeding surveys, handling times, and species densities, and one that contains a selected subset of the data (pertaining to one predator species at one site) that was used in Novak (2010) Ecology. \
+\
+The following provides an explanation of the columns in each file.\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
+\cf0 \
+~~~~~~~~~~~~~~~~~~~~~~~~~~\
+
+\b NZ-FeedingObservations.csv\
+[Systematic field surveys a focal predator population in a specified area of the shore.]\
+
+\b0 \
+
+\i Year, Date 
+\i0 - 2004, 2005, 2006, 2007\
+\
+
+\i Site
+\i0  - there are a total of 6 sites (2 on the NW coast, 2 on the SW coast, 2 on the NE coast.  The distance within each pair of sites ranges from ~200m to 24km.)\
+\
+DayNight - subjectively assessed\
+\
+
+\i TideZone
+\i0  - the location on the shore where the observation was made, subjectively categorized into High, Mid, and Low tide-zones.  [In 2004 (the first year) I did not distinguish tide zones, thus "General_unspecified".  The low zone was not sampled consistently due to access and low predator numbers, so can be ignored)].  [Note:  Although feeding surveys were conducted within the same set of pre-defined areas at each site and I kept track of which area each feeding observation was made it, I did not, unfortunately, have the forethought to enter these data from my notebooks.  It would be possible to go through my notebooks and extract this information so as to have replicate feeding surveys for a given day.]\
+\
+
+\i Predator
+\i0  - Name of the focal species being surveyed.  Mainly 
+\i Haustrum haustorium 
+\i0 (the large whelk) or 
+\i Haustrum scobina 
+\i0 (a smaller whelk).  Occasional observations of much rarer whelks (e.g., 
+\i Paratrophon patens
+\i0 ) are also included, but can be ignored.\
+\
+
+\i PredSize
+\i0  - The shell length of the predator individual in mm.\
+\
+
+\i EstimatedPredSize
+\i0  - True/False - Whether or not the predator size was estimated or measured directly.  (The sizes of individuals found in breeding aggregations were estimated so as not to disturb reproduction, for example.)\
+\
+
+\i PossibleChaemoPred -
+\i0  True/False - Determining whether or not a predator individual was feeding was sometimes difficult for one particularly small and abundant species of barnacle (
+\i Chamaesipho columna
+\i0 ).  True denotes an observation where feeding could not be definitively ascertained but seemed possible.  [In past analyses I have included only definitive feeding events.]\
+\
+
+\i Prey
+\i0  - Either "Not feeding" or the name of the species on which an individual predator was observed feeding.\
+\
+
+\i PreySize
+\i0  - The shell length of the prey being eaten in mm. \
+\
+
+\i EstimatedPreySize
+\i0  - True/False - Whether or not prey size was estimated (because it was crushed, dropped, etc.)\
+\
+
+\i Drilling
+\i0  - True/False - Whether or not the predator had drilled through the shell of the prey. [Most species are not drilled, but for others, predators can either drill or not drill to feed.  This *may* be size-dependent.  I have ignored this in previous analyses, though it probably is important.]\
+\
+~~~~~~~~~~~~~~~~~~~~~~~~~~\
+
+\b NZ-HandlingTimes.csv\
+[Laboratory-based estimation of the time required for a predator individual to feed (handle) a prey item, as a function of predator and prey identities and sizes, and water temperature.]
+\b0 \
+\
+
+\i Year
+\i0  - Year in which measurement was made. (Can be ignored.  My methods differed slightly in the earlier years, but I do not expect this to have affected the results.)\
+\
+
+\i Expt/Location 
+\i0 - The room in which the experiment was conducted. (Can be ignored.)\
+\
+
+\i Aerated/Flowthrough/Neither
+\i0  - Whether the aquarium was bubbled with air, was part of a flow-through water system, or was just a bucket of water. Aerated for most species, and flow-through for barnacles. (Can be ignored.)\
+\
+
+\i Temperature
+\i0  - The water temperature in which the aquarium was held (in temperature-controlled rooms).  Most are at 10, 14.5, or 18 deg. C. (measured to the nearest 0.5 deg. C).\
+\
+
+\i Container/Individual_#
+\i0  - Coded. e.g., c10-1.  Here "c10" indicates the aquarium id number (i.e. the 10th container).  "c10-1" indicates the first individual to have been placed in that aquarium.   Individuals were replaced with a new individual when the handling time of a feeding event had been well-constrained.   If, however, the handling time of a feeding event had not been well-constrained, the predator was given the opportunity to feed again, sometimes multiple times, until a feeding event had been well-constrained.  The repeated occurrence of the same code indicates such an individual.  The order in which its multiple prey were eaten is indicated by the "Start_1st" date/time column (see later). [Note, in previous analyses I have removed all but the most well-estimated observation for each individual.]\
+\
+
+\i Predator
+\i0  - Either 
+\i Haustrum haustorium 
+\i0 or 
+\i H. scobina
+\i0 \
+\
+
+\i PredSource
+\i0  -location from which the predator was collected.\
+\
+
+\i PredSize 
+\i0 - shell length of the predator in mm (+/- 0.1 mm).\
+\
+
+\i Prey
+\i0  - Prey species name\
+\
+
+\i PreySource 
+\i0  - location from which prey individuals were collected.\
+\
+
+\i PreySize 
+\i0 - shell length of eaten prey (+/- 0.1 mm). (Missing values indicate individual lost or broken prior to measurement.)\
+\
+
+\i Risselopsis_varia height
+\i0  - For one prey species, 
+\i Risselopsis varia
+\i0 , it was more accurate to measure its width than its length.  Thus, for this species, 
+\i PreySize
+\i0  is not its length but rather its width (as measured in the field).  This column provides the additional (though unused) information on it length.\
+\
+
+\i Drilled?
+\i0  - True/False  - Whether or not the predator had drilled through the shell of the prey (see 
+\i FeedingSurvey
+\i0  data).\
+\
+
+\i Prey_post-consumption_Weight 
+\i0 - the weight of each eaten prey's shell remains (in grams)  [I have allometric relationships to determine pre-consumption weight.  This, therefore, allows me to estimate how much tissue was actually consumed.]\
+\
+
+\i with_operculum_or_radula?  - 
+\i0 Whether or not the 
+\i Prey_post-consumption_Weight
+\i0  includes the weight of the prey's operculum or radula.\
+\
+
+\i operc_weight
+\i0  - the weight of the prey's operculum, if the species has one.\
+\
+
+\i est._%_consumed
+\i0  - a visual estimate of the fraction of the prey's tissue that has actually been consumed.  [in previous analyses I have removed observations in which < 80% of prey tissue was actually eaten, assuming that in the field a predator will eat 100% of the tissue.]\
+\
+
+\i leftover_tissue_weight_(dried) - 
+\i0 weight of remaining tissue after dessication\
+\
+
+\i Start_1st
+\i0  - The last date/time point at which I had lasted checked the aquarium before a feeding event had begun.\
+\
+
+\i Start_2nd
+\i0  - The first date/time point at which I observed that a feeding event had begun. (see 
+\i Exact_Start
+\i0  if empty)\
+\
+
+\i Exact_Start
+\i0  - Yes/No - On some occasions that initiation of a feeding event was directly observed.  The exact starting time was therefore known.\
+\
+
+\i End_1st
+\i0  - The last date/time point at which I had checked the aquarium during which feeding was still underway.\
+\
+
+\i End_2nd
+\i0  - The first date/time point at which I observed the feeding event to have ended.\
+\
+
+\i Exact_End
+\fs22  
+\fs24 - 
+\i0 Yes/No - As for Exact_Start\
+\
+
+\i Min_(days) 
+\i0 - The amount of elapsed time (in days) between Start_2nd and End_1st.\
+\
+
+\i Max_(days) 
+\i0 - The amount of elapsed time between Start_1st and End_2nd.\
+\
+
+\i Midpoint_(days)
+\i0  - Elapsed time midpoint = (Min+Max)/2\
+\
+Start_+_End_Windows - The total amount of "error" associated with a handling time estimate. (= Start_2nd minus Start_1st)+(End_2nd minus End_1st).\
+\
+
+\i Inverse Window (for Weighting)
+\i0  - Used for weighted-regression to allocate more weight to better constrained handling time estimates (= 1/(0.01+Start_+_End_Window).) \
+\
+
+\i Both_Start_and_End_within_+/- 2hr24min
+\i0  - TRUE/FALSE - A somewhat arbitrary cutoff point for excluding "poorly" constrained handling times - short enough to seem constrained enough, long enough to not exclude too much data!\
+\
+~~~~~~~~~~~~~~~~~~~~~~~~~~\
+
+\b NZ-SpeciesDensities.csv
+\b0 \
+
+\b [Transect/Quadrat estimates of species densities]\
+
+\b0 \
+
+\i Site
+\i0  - One of 6 sites (see 
+\i Feeding Surveys
+\i0 )\
+\
+
+\i Year -
+\i0   2005 or 2006 (huh, I thought I'd done these in 2007 too.  bummer.)\
+\
+
+\i Season
+\i0  - Summer or Winter\
+\
+
+\i SurveyType
+\i0  - Either "Quads_All_Species" or "Quads_Large_&_Rare_species_only" - Whether all species were counted (= Transects 1 and 2), or only large and rare species were counted (= Transect 3).\
+\
+
+\i TideZone
+\i0  - Subjectively assessed placement into the mid- or high- tide zone.  (Low zone was not assessed.)\
+\
+
+\i Transect
+\i0  - 1st, 2nd, or 3rd; each haphazardly placed parallel to the shore at each tide zone within pre-defined areas of the shore (the same in which feeding surveys were conducted). [NOTE:  Although I recorded the information in my notebooks, I did not have the forethought to enter the area in which each transect was located.  I would need to go back to my notebooks in order to match a transect with the location of each feeding survey.]\
+\
+
+\i Quad
+\i0  - Five 0.25m^2 quadrats placed randomly along each transect.\
+\
+
+\i Species
+\i0  - Name of the species observed\
+\
+
+\i Density - 
+\i0 Number of individuals per square meter.  Two things to note:  (1) Mobile species were counted directly.  Sessile species were estimated by percent cover subsequently converted to counts using species-specific conversion rates obtained from an independent set of smaller quadrats in which sessile species were both counted and estimated by percent cover.  (2) Densities were also corrected for the actual surface area of the rock below the quadrat.  That is, due to the rugosity of the rock, the actual surface area was greater than 0.25m2 (see Methods file).\
+\
+}
